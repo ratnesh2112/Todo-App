@@ -1,3 +1,24 @@
 .counter {
   /* TODO */
+
+  text-align: end;
+  margin-top: 20px;
+  margin-right: 45px;
+  
+}
+.btn2{
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: white;
+  color: white;
+  background-color: rgb(149, 147, 227);
+  font-size: 21px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.btn3{
+ padding: 12px;
 }
